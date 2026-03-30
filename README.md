@@ -7,7 +7,7 @@ A Python tool that identifies file types using magic numbers.
 - CLI scanning
 - Detect fake extensions
 
-You can add more file signature in ###"data/file_sigs.json"
+You can add more file signature in "data/file_sigs.json"
 
 ## Usage
 python cli.py suspicious_file.bin
